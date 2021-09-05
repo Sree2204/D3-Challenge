@@ -64,9 +64,9 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 ## SOLUTION
 
-![invvsobe](Images/invvsobe.jpg)
+![invvsobe](Images/invvsobe.JPG)
 
-![obevspov](Images/obevspov.jpg)
+![obevspov](Images/obevspov.JPG)
 
 ### Assessment
 
