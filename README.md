@@ -62,6 +62,11 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 - - -
 
+## SOLUTION
+
+![invvsobe](Images/invvsobe.jpg)
+![obevspov](Images/obevspov.jpg)
+
 ### Assessment
 
 Your final product will be assessed on the following metrics:
