@@ -62,9 +62,13 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 - - -
 
-## SOLUTION- 1. Income vs Obesity   2. Obesity vs Poverty
+## SOLUTION
+
+#### 1. Income vs Obesity
 
 ![invvsobe](Images/invvsobe.JPG)
+
+####  2. Obesity vs Poverty
 
 ![obevspov](Images/obevspov.JPG)
 
